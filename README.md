@@ -1,3 +1,3 @@
-# localrepo
-# this is my local repository
-# Python Basic Programs
+# localrepo.
+# this is my local repository.
+# Python Basic Programs.
